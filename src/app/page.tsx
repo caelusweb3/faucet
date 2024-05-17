@@ -79,7 +79,7 @@ function App() {
         <div className='container mx-auto px-4'>
           <div className='flex items-center justify-between h-16'>
             <div className='flex items-center'>
-              <h1 className='text-2xl font-bold'> My Token Faucet</h1>
+              <h1 className='text-2xl font-bold'> My Token Faucet Vercel</h1>
             </div>
 
             <div className='flex items-center'>
